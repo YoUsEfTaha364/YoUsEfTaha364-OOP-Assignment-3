@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\RefactoringLab.Part02.csproj": {}
+    "D:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\RefactoringLab.Part02.csproj": {}
   },
   "projects": {
-    "d:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\RefactoringLab.Part02.csproj": {
+    "D:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\RefactoringLab.Part02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\RefactoringLab.Part02.csproj",
+        "projectUniqueName": "D:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\RefactoringLab.Part02.csproj",
         "projectName": "RefactoringLab.Part02",
-        "projectPath": "d:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\RefactoringLab.Part02.csproj",
+        "projectPath": "D:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\RefactoringLab.Part02.csproj",
         "packagesPath": "C:\\Users\\ggggh\\.nuget\\packages\\",
-        "outputPath": "d:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\obj\\",
+        "outputPath": "D:\\.net deploma\\assignments\\oop-assignment3\\YoUsEfTaha364-OOP-Assignment-3\\Refactoring\\part-02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ggggh\\AppData\\Roaming\\NuGet\\NuGet.Config"
