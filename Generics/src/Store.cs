@@ -1,30 +1,61 @@
+using System;
+
 namespace src;
 
 public class Store<T>
-    where T : class, IHasId
+  where T : class, IHasId
 {
-    private readonly List<T> _items = new();
+    private readonly Dictionary<int, T> _items = new();
 
-    public void Add(T item)
+    private IReadOnlyDictionary<int, T> _ItemsView;
+
+    public Store()
     {
-        _items.Add(item);
+        _ItemsView = _items;
+    }
+    public void Add(int id, T item)
+    {
+        if (_items.ContainsKey(id))
+        {
+            throw new InvalidOperationException(
+                $"An item with ID {id} already exists.");
+        }
+
+        _items.Add(id, item);
     }
 
     public T? GetById(int id)
     {
-        foreach (T item in _items)
+        if (_items.TryGetValue(id, out T? item))
         {
-            if (item.Id == id) 
-            {
-                return item;
-            }
+            return item;
         }
+        else return null;
 
-        return null;
+
+
     }
 
-    public List<T> GetAll()
+    public IReadOnlyDictionary<int, T> GetAll()
     {
-        return _items;
+        return _ItemsView;
+    }
+    public void Remove(int id)
+    {
+
+
+        if (_items.ContainsKey(id))
+        {
+
+            _items.Remove(id);
+            Console.WriteLine("Course removed successfully");
+
+
+        }
+
+
+        Console.WriteLine("Course not found");
+        return;
+
     }
 }
