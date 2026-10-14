@@ -1,7 +1,7 @@
 namespace src;
 
 public class Store<T>
-    where T : class
+    where T : class, IHasId
 {
     private readonly List<T> _items = new();
 
