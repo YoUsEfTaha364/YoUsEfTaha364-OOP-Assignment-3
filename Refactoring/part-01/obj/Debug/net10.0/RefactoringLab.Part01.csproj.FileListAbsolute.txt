@@ -1,0 +1,15 @@
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.exe
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.deps.json
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.runtimeconfig.json
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.dll
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.pdb
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.GeneratedMSBuildEditorConfig.editorconfig
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.AssemblyInfoInputs.cache
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.AssemblyInfo.cs
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.csproj.CoreCompileInputs.cache
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.sourcelink.json
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.dll
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\refint\RefactoringLab.Part01.dll
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.pdb
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.genruntimeconfig.cache
+D:\شغابيط\OOP\Assignment3\part1\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\ref\RefactoringLab.Part01.dll
