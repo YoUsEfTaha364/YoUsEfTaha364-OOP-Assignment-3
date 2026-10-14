@@ -22,3 +22,20 @@
   that  interface 
 
     where T : class (to enable return null) , IHasId
+
+==================================================================================================
+
+
+
+i can not make Store<string> because Store<T> must T implements IHasId interface that contains
+
+Id property so string must has Id property so error <the string type has no Id property and doesn not implement your interface>
+
+
+===================================================================================================
+
+
+
+
+The common name for this kind of class is a Generic Repository. It provides common operations for different entity types through one generic class, instead of creating separate stores for students and courses.
+
